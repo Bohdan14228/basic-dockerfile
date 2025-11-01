@@ -1,3 +1,3 @@
 FROM alpine:latest
-ENTRYPOINT ["echo"] 
-CMD ["Hello, Captain!"]
+ENTRYPOINT ["echo", "Hello "] 
+CMD ["Captain!"]
